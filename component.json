@@ -2,7 +2,7 @@
   "name": "backbone-events",
   "repo": "green-mesa/backbone-events",
   "description": "Backbone events",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
     "components/underscore" : "1.4.4"
