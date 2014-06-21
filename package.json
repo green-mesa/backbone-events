@@ -1,0 +1,17 @@
+{
+  "name"          : "green-mesa-backbone-events",
+  "description"   : "Standalone Backbone Events.",
+  "url"           : "http://backbonejs.org",
+  "keywords"      : ["backbone", "events", "client", "browser"],
+  "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
+  "dependencies"  : {
+    "underscore"  : "1.4.4"
+  },
+  "main"          : "index.js",
+  "version"       : "1.0.2",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-mesa/backbone-events.git"
+  }
+}
